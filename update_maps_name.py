@@ -4,8 +4,8 @@ from openpyxl import load_workbook
 from openpyxl.worksheet.hyperlink import Hyperlink
 
 # 
-# Google API Key Christiaanzeeman.cz@gmail.com
-GEOCODER = GoogleV3(api_key='AIzaSyCxLKz7_xG9qlWJ4M7CrjidVSSMdB1tfAU')
+# Google API Key #
+GEOCODER = GoogleV3(api_key='#')
 
 # https://stackoverflow.com/questions/50714216/how-to-correctly-access-geocode-api-response-in-python
 # issue on address, not all cells contain correct address information. Using name instead
